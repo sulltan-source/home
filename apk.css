@@ -2109,8 +2109,8 @@ ul.article-list li {
 }
 
 @font-face {
-  font-family: 'K24KurdishBold-Bold';
-  src: url('K24KurdishBold-Bold.woff' ) format('woff2');
+  font-family: 'Speda-Bold';
+  src: url('Speda-Bold.woff' ) format('woff2');
 }
 
 .button {
@@ -2125,7 +2125,7 @@ ul.article-list li {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-   font-family: 'K24KurdishBold-Bold';
+   font-family: 'Speda-Bold';
 }
 
 .button2 {
@@ -2142,13 +2142,13 @@ ul.article-list li {
 }
 h3{
 	color: white;
-   font-family: 'K24KurdishBold-Bold';
+	 font-family: 'Speda-Bold';
 	text-align: center;
 }
 
 a{
 	color: yellow;
-   font-family: 'K24KurdishBold-Bold';
+	 font-family: 'Speda-Bold';
 	text-align: center;
 	
 }
